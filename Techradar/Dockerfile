@@ -10,6 +10,6 @@ LABEL org.opencontainers.image.vendor="Kiban"
 LABEL org.opencontainers.image.title="Kiban Tech & Tools Radar image with nginx alpine"
 LABEL org.opencontainers.image.description="Kiban Tech & Tools Radar image with base nginx alpine image that serves a static web page."
 RUN rm -rf /usr/share/nginx/html/*
-COPY build/ /usr/share/nginx/html/kiban-techradar/
+COPY build/ /usr/share/nginx/html/
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
