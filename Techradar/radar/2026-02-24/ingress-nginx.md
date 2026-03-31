@@ -1,7 +1,7 @@
 ---
 title:      "Ingress NGINX"
 quadrant:   platform
-ring:       adopt
+ring:       hold
 tags:       [PLATFORM-ENGINEERING, ORCHESTRATOR]
 featured:   true
 ---

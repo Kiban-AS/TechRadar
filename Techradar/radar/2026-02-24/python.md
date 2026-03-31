@@ -1,7 +1,7 @@
 ---
 title:      "Python"
 quadrant:   software
-ring:       assess
+ring:       adopt
 tags:       [DEVELOPMENT]
 featured:   true
 ---
