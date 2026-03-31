@@ -13,13 +13,13 @@
   "sections": ["radar", "tags", "list"],
   "colors": {
     "foreground": "#fff",
-    "background": "#11405c",
-    "highlight": "#029df7",
+    "background": "#0d1f2d",
+    "highlight": "#2ab4a0",
     "content": "#fff",
-    "text": "#575757",
-    "link": "#029df7",
-    "border": "rgba(255, 255, 255, 0.1)",
-    "tag": "rgba(255, 255, 255, 0.1)"
+    "text": "#6b8a9a",
+    "link": "#5db8e8",
+    "border": "rgba(90, 180, 210, 0.15)",
+    "tag": "rgba(90, 180, 210, 0.15)"
   },
   "quadrants": [
     {
